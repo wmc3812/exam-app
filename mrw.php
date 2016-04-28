@@ -1,4 +1,5 @@
-<?php 
-  header('Location: https://i.imgur.com/pXjrQ.gif');
-  exit;
-?>
+<html>
+
+<a href="/semester-ends.gif.php">Semester Ends</a>
+  
+</html>
