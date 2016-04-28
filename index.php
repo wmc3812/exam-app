@@ -7,9 +7,9 @@
 <p><a href="/robots.txt">robots.txt</a></p>
 
 
-<form action="send.php" id="new-chat" method="post">
+<form action="/posts/new.php" id="new-chat" method="post">
 	<input id="message" type="text">
-	<input id="send" type="submit" value="Send">
+	<input id="send" type="submit" value="Post">
 </form>
 
 </html>
